@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tile Calc</string>
+    <string name="title_activity_main">Tile Calc</string>
+    <string name="package_name">com.arqmedia.tilecalc</string>
+    <string name="custom_url_scheme">com.arqmedia.tilecalc</string>
+</resources>

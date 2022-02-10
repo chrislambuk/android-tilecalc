@@ -1,0 +1,6 @@
+{
+	"appId": "com.arqmedia.tilecalc",
+	"appName": "Tile Calc",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
